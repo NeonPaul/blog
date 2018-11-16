@@ -6,12 +6,9 @@ author: Paul Kiddle
 layout: page
 guid: http://mrkiddle.co.uk/blog/?page_id=2
 ---
-Hi, I&#8217;m Paul. Right now I&#8217;m probably doing one of three things:
 
-  * Cooking, cleaning or serving food (by day I&#8217;m a dinnerlady)
-  * Plotting, scheming or running projects (by night I&#8217;m a community volunteer)
-  * Pretending to be a dinosaur (I don&#8217;t think I need an excuse for this one)
+Hi, I'm Paul. I'm a software developer at the Natural History Museum, London. Pre-2017 this blog was some kind of weird experimental diary. Now it's about software development.
 
-<div>
-  This blog is really to document the second one of those points, though expect me to get sidetracked along the way.
-</div>
+I'm [@neonpaul@twitter.com](http://twitter.com/neonpaul) and [@neonpaul@mastodon.me.uk](http://mastodon.me.uk/@neonpaul).
+
+You can subscribe to this blog through [RSS](/feed.xml) or through ActivityPub at [@mrkiddle@bots.tinysubversions.com](https://bots.tinysubversions.com/u/mrkiddle).
