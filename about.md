@@ -7,8 +7,8 @@ layout: page
 guid: http://mrkiddle.co.uk/blog/?page_id=2
 ---
 
-Hi, I'm Paul. I'm a software developer at the Natural History Museum, London. Pre-2017 this blog was some kind of weird experimental diary. Now it's about software development.
+Hi, I'm Paul. I'm a software developer at the Natural History Museum, London. This blog is some kind of experimental diary, and a place for me to organise my thoughts on politics, activism, and decentralised systems.
 
-I'm [@neonpaul@twitter.com](http://twitter.com/neonpaul) and [@neonpaul@mastodon.me.uk](http://mastodon.me.uk/@neonpaul).
+I run part of a large social media network at [@paul@kith.kitchen](http://kith.kitchen/@paul).
 
 You can subscribe to this blog through [RSS](/feed.xml) or through ActivityPub at [@mrkiddle@bots.tinysubversions.com](https://bots.tinysubversions.com/u/mrkiddle).
